@@ -668,7 +668,7 @@ body{
 	margin-top:150px;
 }
 .slider .single-slider h1 {
-	color: #ffffff; /* #2C2D3F hadi nta3 text lkbir li fo9 tsawr */
+	color: ; #2C2D3F /* #ffffff hadi nta3 text lkbir li fo9 tsawr */
 	font-size: 38px;
 	font-weight: 700;
 	margin: 0;
@@ -676,10 +676,10 @@ body{
 	line-height: 42px;
 }
 .slider .single-slider h1 span{
-	color:#fee600; /* #1a76d1 hadi nta3 text li fo9 tsawr */
+	color:#1a76d1; /* #fee600 hadi nta3 text li fo9 tsawr */
 }
 .slider .single-slider p {
-	color: #ffffff; /* #2C2D3F hadi nta3 text sghir li fo9 tsawr */
+	color: #2C2D3F; /* #ffffff hadi nta3 text sghir li fo9 tsawr */
 	margin-top: 27px;
 	font-weight: 400;
 }
