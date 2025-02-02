@@ -151,7 +151,7 @@ Version:	1.1
 	height:100%;
 	width:100%;
 	background:#fff;
-	opacity:0.1; /* kant 0.5 pour téléphone */
+	opacity:0.2; /* kant 0.5 pour téléphone */
 }
 .slider .single-slider h1 {
 	font-size: 28px;
@@ -599,7 +599,7 @@ Version:	1.1
 	height:100%;
 	width:100%;
 	background:#fff;
-	opacity:0.5;
+	opacity:0.2;/* kant 0.5 pour téléphone */
 }
 .slider .single-slider h1 {
 	font-size: 28px;
@@ -1087,7 +1087,7 @@ Version:	1.1
 	height:100%;
 	width:100%;
 	background:#fff;
-	opacity:0.5;
+	opacity:0.2; /* kant 0.5 pour téléphone */
 }
 .slider .single-slider h1 {
 	font-size: 20px;
