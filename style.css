@@ -239,12 +239,9 @@ body{
 	End Global CSS 
 ===============================*/
 
-
 /*===================
 	Start Header CSS 
 =====================*/
-
-
 /* General header styling */
 .header {
     background-color: #fff; /* Sets the background color of the header to white */
@@ -671,7 +668,7 @@ body{
 	margin-top:150px;
 }
 .slider .single-slider h1 {
-	color: ; #2C2D3F /* #ffffff hadi nta3 text lkbir li fo9 tsawr */
+	color: #ffffff; /* #2C2D3F hadi nta3 text lkbir li fo9 tsawr */
 	font-size: 38px;
 	font-weight: 700;
 	margin: 0;
@@ -679,10 +676,10 @@ body{
 	line-height: 42px;
 }
 .slider .single-slider h1 span{
-	color:#1a76d1; /* #fee600 hadi nta3 text li fo9 tsawr */
+	color:#fee600; /* #1a76d1  hadi nta3 text li fo9 tsawr */
 }
 .slider .single-slider p {
-	color: #2C2D3F; /* #ffffff hadi nta3 text sghir li fo9 tsawr */
+	color: #ffffff; /* #2C2D3F  hadi nta3 text sghir li fo9 tsawr */
 	margin-top: 27px;
 	font-weight: 400;
 }
@@ -728,7 +725,7 @@ body{
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
 	padding: 0;
-	border-radius: 50%;
+	border-radius: 50%; 
 }
 .slider .owl-carousel .owl-nav div:hover{
 	background:#2C2D3F;
@@ -751,6 +748,8 @@ body{
 .owl-item.active .single-slider .button{
     animation: fadeInDown 1s both 1.5s;
 }
+
+
 /*===========================
 	End Hero Area CSS
 =============================*/
@@ -807,7 +806,7 @@ body{
     transition: all .3s ease-out 0s;
 }
 .schedule .single-schedule:hover:before{
-	opacity: 0.8;
+	opacity: 0.8;  
 }
 .schedule .single-schedule:hover{
 	transform: translateY(-5px);
